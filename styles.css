@@ -1,0 +1,35 @@
+h1 {
+    color: #B6ADDB;
+    font-size: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+div {
+    color: #B6ADDB;
+    font-size: 10px;
+    
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-color: #FFDCDC;
+    text-align: left;
+}
+
+img {
+   max-height: 100px;
+   max-width: 100px;
+   border: 1px solid #000000;
+   border-radius: 50%;
+   margin-bottom: 2%;
+   
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0%;
+}
+
+/* FFEBEB
+#FFEBF0
+#FFE6E6
