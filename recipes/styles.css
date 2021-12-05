@@ -1,5 +1,3 @@
-
-
 body {
     background-color: #FFDCDC;
     text-align: left;
@@ -11,12 +9,12 @@ body {
 img {
     width: auto;
     height: auto;
-    max-width: 500px;
+    max-width: 475px;
 }
 h1 {
     color: #B6ADDB;
     font-size: 20px;
-    font-weight: bolder;
+    font-weight: 900;
     font-family: 'Courier New', Courier, monospace;
 }
 
@@ -27,4 +25,8 @@ img {
 
 li {
     padding: 1%;
+}
+
+.recipeorigin {
+    font-size: 10px;
 }
